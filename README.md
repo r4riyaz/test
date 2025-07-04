@@ -1,2 +1,2 @@
 # test files
-[![Build Status](http://custom.jenkins.net/buildStatus/icon?job=webhook)](http://custom.jenkins.net/job/webhook/)
+[![Build Status](http://104.130.13.95/buildStatus/icon?job=webhook)](http://104.130.13.95/job/webhook/)
